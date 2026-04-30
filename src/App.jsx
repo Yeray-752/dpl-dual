@@ -4,7 +4,7 @@ return (
 <main className="container"> 
 <h1>Actividad DUAL 4 - CI/CD</h1> 
 <p>Aplicación web desplegada mediante un pipeline básico.</p> 
-<p>Alumno: Nombre Apellidos</p> 
+<p className='bg-red-800'>Alumno: Nombre Apellidos</p> 
 </main> 
 ); 
 } 
